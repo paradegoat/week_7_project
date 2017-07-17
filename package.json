@@ -1,0 +1,28 @@
+{
+  "name": "week_7_project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geoff Humphreys",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "bcryptjs": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "connect-flash": "*",
+    "express": "^4.15.3",
+    "express-validator": "*",
+    "mocha": "^3.4.2",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0"
+
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "description": ""
+}
